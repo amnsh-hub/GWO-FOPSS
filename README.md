@@ -4,7 +4,7 @@ GWO-FOPSS: A Robust Fractional-Order Power System Stabilizer  Controller Optimiz
 
 
 1. [Amal Ibrahim Nasser] - (Lead Developer & Corresponding Author).
-2. Wafaa Saeed2-             co-Author
+2. Wafaa Saeed             co-Author
 3. Layth AL-Bahrani    -     co-Author
 4. NoorAldeen.R.Hamza  -     co-Author
 
