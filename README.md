@@ -3,9 +3,10 @@ GWO-FOPSS: A Robust Fractional-Order Power System Stabilizer  Controller Optimiz
 
 
 
-[Amal Ibrahim Nasser] - (Lead Developer & Corresponding Author).
-Wafaa Saeed2-             co-Author
-Layth AL-Bahrani    -     co-Author
+1. [Amal Ibrahim Nasser] - (Lead Developer & Corresponding Author).
+2. Wafaa Saeed2-             co-Author
+3. Layth AL-Bahrani    -     co-Author
+4. NoorAldeen.R.Hamza  -     co-Author
 
 **Description:**
 This package implements and compares three Power System Stabilizer (PSS) designs for a Single-Machine Infinite-Bus (SMIB) system with a salient-pole hydroelectric generator (32 poles):
